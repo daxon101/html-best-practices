@@ -88,11 +88,11 @@ not guarantee to define a human readable name for these characters.
 
 Bad:
 
-    <p>This book can read in 1 hour.</p>
+    <p>This book can be read in 1 hour.</p>
 
 Good:
 
-    <p>This book can read in 1&#xA0;hour.</p>
+    <p>This book can be read in 1&#xA0;hour.</p>
 
 
 ### Put white spaces around comment contents
